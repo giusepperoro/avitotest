@@ -1,0 +1,5 @@
+pg_host: 127.0.0.1
+pg_user: postgres
+pg_password: root
+pg_database_name: postgres
+pg_port: 5433
