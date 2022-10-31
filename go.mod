@@ -1,4 +1,4 @@
-module github.com/avitotest/eval
+module github.com/giusepperoro/avitotest
 
 go 1.17
 
